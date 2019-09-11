@@ -1,3 +1,9 @@
 [submodule "pytorch/examples"]
 	path = pytorch/examples
 	url = git@github.com:icaoberg/examples.git
+[submodule "basic/singularity-gotop"]
+	path = basic/singularity-gotop
+	url = git@github.com:icaoberg/singularity-gotop.git
+[submodule "basic/singularity-gimp"]
+	path = basic/singularity-gimp
+	url = git@github.com:icaoberg/singularity-gimp.git
